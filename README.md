@@ -1,2 +1,2 @@
-# freecodecamp
-Lessons from freecodecamp
+# Im studying Git
+Hello everyone!
